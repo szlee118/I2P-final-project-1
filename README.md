@@ -1,7 +1,7 @@
 # I2P-final-project-1
 A street game using allegro
 
-this is a code-blocks project.
+This is a code-blocks project.
 To download codeblocks:https://www.allegro.cc/files/  
 (in the project I use window binaries package MinGW 4.7.0 )
 
