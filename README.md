@@ -2,7 +2,8 @@
 A street game using allegro
 
 this is a code-blocks project.
-To download codeblocks:
+To download codeblocks:https://www.allegro.cc/files/  
+(in the project I use window binaries package MinGW 4.7.0 )
 
 Allegro should be downloaded from:
 https://www.allegro.cc/files/
